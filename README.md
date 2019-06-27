@@ -23,4 +23,4 @@ Should attributes and elements be used or just elements?
   * Attributes associated with identification
   
 # CONTRIBUTING TO THE DISCUSSION
-To contribute to the discussion please file an issue at https://github.com/spuddybike/DDI-TC-162-Discussion/issues
+To contribute to the discussion please file an issue at https://github.com/ddialliance/DDI-TC-162-Discussion/issues
